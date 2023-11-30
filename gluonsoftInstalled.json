@@ -1,0 +1,171 @@
+[
+  {
+    "gluonsoftId": "E45EC0FB-D737-44A2-81D6-5613755696BF",
+    "versionId": "7025DD17-8CC2-4B20-911A-A9DEC0A3F374",
+    "name": "Assinatura Digital - D4Sign",
+    "version": "1.0.0",
+    "dateAdded": "2022-08-22 17:41:52",
+    "filesAdded": [
+      {
+        "name": "assinaturas.cronapi.js",
+        "path": "/src/main/mobileapp/www/js/assinaturas/assinaturas.cronapi.js"
+      },
+      {
+        "name": "embed.js",
+        "path": "/src/main/mobileapp/www/js/assinaturas/embed.js"
+      },
+      {
+        "name": "assinatura.svg",
+        "path": "/src/main/mobileapp/www/img/assinatura.svg"
+      },
+      {
+        "name": "viewer_document.svg",
+        "path": "/src/main/mobileapp/www/img/viewer_document.svg"
+      },
+      {
+        "name": "upload_document.svg",
+        "path": "/src/main/mobileapp/www/img/upload_document.svg"
+      },
+      {
+        "name": "upload.document.components.json",
+        "path": "/src/main/java/META-INF/upload.document.components.json"
+      },
+      {
+        "name": "viewer.document.components.json",
+        "path": "/src/main/java/META-INF/viewer.document.components.json"
+      },
+      {
+        "name": "upload.document.template.html",
+        "path": "/src/main/java/META-INF/templates/upload.document.template.html"
+      },
+      {
+        "name": "viewer.document.template.html",
+        "path": "/src/main/java/META-INF/templates/viewer.document.template.html"
+      },
+      {
+        "name": "Assinaturas.java",
+        "path": "/src/main/java/blockly/Assinaturas/Assinaturas.java"
+      },
+      {
+        "name": "Signatario.java",
+        "path": "/src/main/java/blockly/Assinaturas/Signatario.java"
+      },
+      {
+        "name": "assinaturas.cronapi.js",
+        "path": "/src/main/webapp/js/assinaturas/assinaturas.cronapi.js"
+      },
+      {
+        "name": "embed.js",
+        "path": "/src/main/webapp/js/assinaturas/embed.js"
+      },
+      {
+        "name": "assinatura.svg",
+        "path": "/src/main/webapp/img/assinatura.svg"
+      },
+      {
+        "name": "viewer_document.svg",
+        "path": "/src/main/webapp/img/viewer_document.svg"
+      },
+      {
+        "name": "upload_document.svg",
+        "path": "/src/main/webapp/img/upload_document.svg"
+      }
+    ],
+    "filesMerged": [
+      {
+        "name": "index.html",
+        "path": "/src/main/webapp/index.html",
+        "htmlDependencies": [
+          {
+            "src": "js/assinaturas/assinaturas.cronapi.js",
+            "type": "script"
+          },
+          {
+            "src": "js/assinaturas/embed.js",
+            "type": "script"
+          }
+        ]
+      },
+      {
+        "name": "index.html",
+        "path": "/src/main/mobileapp/www/index.html",
+        "htmlDependencies": [
+          {
+            "src": "js/assinaturas/assinaturas.cronapi.js",
+            "type": "script"
+          },
+          {
+            "src": "js/assinaturas/embed.js",
+            "type": "script"
+          }
+        ]
+      }
+    ],
+    "filesTmp": [
+      {
+        "name": "assinaturas.cronapi.js",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/mobileapp/www/js/assinaturas/assinaturas.cronapi.js"
+      },
+      {
+        "name": "embed.js",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/mobileapp/www/js/assinaturas/embed.js"
+      },
+      {
+        "name": "assinatura.svg",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/mobileapp/www/img/assinatura.svg"
+      },
+      {
+        "name": "viewer_document.svg",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/mobileapp/www/img/viewer_document.svg"
+      },
+      {
+        "name": "upload_document.svg",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/mobileapp/www/img/upload_document.svg"
+      },
+      {
+        "name": "upload.document.components.json",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/java/META-INF/upload.document.components.json"
+      },
+      {
+        "name": "viewer.document.components.json",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/java/META-INF/viewer.document.components.json"
+      },
+      {
+        "name": "upload.document.template.html",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/java/META-INF/templates/upload.document.template.html"
+      },
+      {
+        "name": "viewer.document.template.html",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/java/META-INF/templates/viewer.document.template.html"
+      },
+      {
+        "name": "Assinaturas.java",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/java/blockly/Assinaturas/Assinaturas.java"
+      },
+      {
+        "name": "Signatario.java",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/java/blockly/Assinaturas/Signatario.java"
+      },
+      {
+        "name": "assinaturas.cronapi.js",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/webapp/js/assinaturas/assinaturas.cronapi.js"
+      },
+      {
+        "name": "embed.js",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/webapp/js/assinaturas/embed.js"
+      },
+      {
+        "name": "assinatura.svg",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/webapp/img/assinatura.svg"
+      },
+      {
+        "name": "viewer_document.svg",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/webapp/img/viewer_document.svg"
+      },
+      {
+        "name": "upload_document.svg",
+        "path": "/tmp/ide-tmp/cronos/gluonsofts/7025DD17-8CC2-4B20-911A-A9DEC0A3F374/src/main/webapp/img/upload_document.svg"
+      }
+    ]
+  }
+]

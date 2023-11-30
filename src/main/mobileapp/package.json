@@ -1,0 +1,15 @@
+{
+  "name": "io.cronapp.apps.d4signpluginteste",
+  "displayName": "d4signPluginTeste",
+  "version": "1.0.0",
+  "description": "d4signPluginTeste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CronApp IDE",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cronapi-js": "2.9.1-SP.2"
+  }
+}
